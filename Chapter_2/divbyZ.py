@@ -1,0 +1,6 @@
+a=int(input("Enter divident: "))
+z=float(input("Enter divisor: "))
+Rem=float(a%z)
+quo=float(a/z)
+print("Remainder: ",Rem)
+print("Quotient: ",quo)
