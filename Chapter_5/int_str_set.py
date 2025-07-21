@@ -1,0 +1,5 @@
+collection= set()
+collection.add(18)
+collection.add("18")
+print(collection)
+print(len(collection))
